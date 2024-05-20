@@ -1,3 +1,8 @@
 Repaso de Git en Practica Final 
 
 
+
+
+
+
+Linea 5, me cambio a la master y no aparecen los archivos conflicto1.txt ni conflicto2.txt
