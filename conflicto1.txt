@@ -1,1 +1,16 @@
 Mi primer conflicto  en git!! en linea 1
+
+
+
+Es mi segunda línea para agregar conflicto en linea1 de la rama1
+
+
+
+
+
+
+
+
+
+Es la tercera linea 
+
