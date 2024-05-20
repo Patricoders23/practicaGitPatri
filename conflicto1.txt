@@ -7,10 +7,5 @@ Es mi segunda línea para agregar conflicto en linea1 de la rama1
 
 
 
-
-
-
-
-
 Es la tercera linea 
 
