@@ -1,19 +1,6 @@
 Repaso de Git en Practica Final 
 
-
-
-<<<<<<< HEAD
 Agrego segunda linea desde la rama1 
-=======
-
-
-
-
-
-
-
-
 
 Escribo tercera linea desde la rama2
 
->>>>>>> rama2
