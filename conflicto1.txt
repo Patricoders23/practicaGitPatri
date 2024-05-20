@@ -5,6 +5,7 @@ Mi primer conflicto  en git!! en linea 1
 Es mi segunda línea para agregar conflicto en linea1 de la rama1
 
 
+Necesito aclararme, estoy en main y si aparecen los archivos conflicto1.txt y conflicto2.txt
 
 
 
