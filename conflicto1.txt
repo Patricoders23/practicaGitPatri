@@ -8,10 +8,6 @@ Es mi segunda línea para agregar conflicto en linea1 de la rama1
 Necesito aclararme, estoy en main y si aparecen los archivos conflicto1.txt y conflicto2.txt
 
 
-
-
-
-
-
 Es la tercera linea 
 
+Modifico desde remoto para realizar commits desde la rama main, preg 1.7 + 1.8
