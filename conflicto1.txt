@@ -11,3 +11,4 @@ Necesito aclararme, estoy en main y si aparecen los archivos conflicto1.txt y co
 Es la tercera linea 
 
 Modifico desde remoto para realizar commits desde la rama main, preg 1.7 + 1.8
+Modifico desde local  para realizar commits desde la rama main, preg 1.7 + 1.8 
